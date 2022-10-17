@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YI3wKv3iSQeVm/SU9dNpxuGhLp9v4yCXKxh+M2mEIb7qH7gnZhiGez2jGNALcOfJ/kRiMgdsqbV2Wjou8MIXfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ihor\\source\\repos\\MentalHealthCareData\\MentalHealthCareData\\MentalHealthCareData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ihor\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\Ihor\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

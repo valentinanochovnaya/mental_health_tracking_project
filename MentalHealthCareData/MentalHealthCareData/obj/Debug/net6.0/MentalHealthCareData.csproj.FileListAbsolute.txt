@@ -1,0 +1,17 @@
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\bin\Debug\net6.0\MentalHealthCareData.exe
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\bin\Debug\net6.0\MentalHealthCareData.deps.json
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\bin\Debug\net6.0\MentalHealthCareData.runtimeconfig.json
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\bin\Debug\net6.0\MentalHealthCareData.dll
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\bin\Debug\net6.0\MentalHealthCareData.pdb
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\obj\Debug\net6.0\MentalHealthCareData.csproj.AssemblyReference.cache
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\obj\Debug\net6.0\MentalHealthCareData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\obj\Debug\net6.0\MentalHealthCareData.AssemblyInfoInputs.cache
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\obj\Debug\net6.0\MentalHealthCareData.AssemblyInfo.cs
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\obj\Debug\net6.0\MentalHealthCareData.csproj.CoreCompileInputs.cache
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\obj\Debug\net6.0\MentalHealthCareData.csproj.CopyComplete
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\obj\Debug\net6.0\MentalHealthCareData.dll
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\obj\Debug\net6.0\refint\MentalHealthCareData.dll
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\obj\Debug\net6.0\MentalHealthCareData.pdb
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\obj\Debug\net6.0\MentalHealthCareData.genruntimeconfig.cache
+C:\Users\Ihor\source\repos\MentalHealthCareData\MentalHealthCareData\obj\Debug\net6.0\ref\MentalHealthCareData.dll
